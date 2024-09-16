@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Data science and model building projects**
  
- 🌱 I’m currently learning **Django, React, Golang**
+ 🌱 I’m currently learning **Django, React, C#**
 
 💬 Ask me about **NodeJs, C++, Firebase... or anything [here](https://github.com/Script-eng)**
 
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /><br>
 </div>
 
 <br/>
